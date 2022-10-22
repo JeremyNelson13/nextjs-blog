@@ -30,10 +30,6 @@ export default function Home({ allPostsData }) {
         <p>[Hello, this is a simple personal blogging app created using the tutorial from Nextjs. My name is Asher, I am
           a recent graduate of a fullstack software development bootcamp with NCSU and ThriveDX. I enjoy learning about new
           languages and technologies, and try to write code every day.]</p>
-        <p>
-          (This is a sample website - you’ll be building a site like this on{' '}
-          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
-        </p>
       </section>
       {/* this section will map and display the blogposts */}
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
