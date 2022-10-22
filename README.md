@@ -1,1 +1,2 @@
+This application was built from the tutorial on Nextjs. It is deployed with their service Vercel. It uses the framework's static generation method to serve pages and posts as static html, creating a more responsive experience.
 This is a starter template for [Learn Next.js](https://nextjs.org/learn).
