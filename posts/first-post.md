@@ -1,0 +1,6 @@
+---
+title: 'Welcome to a NextJS Blog'
+date: '2022-10-22'
+---
+
+My name is Asher, I am fairly new to coding, having about 1 year of experience between the bootcamp and independent projects. I enjoy learning new technologies, and decided to try out a new framework to test my foundational skills with React and JS. The two previous articles are some general guidlines to working with NextJS' Static and Server-Side Generation methods, and some information about when to use each one. This was an interesting short project, and I feel that NextJS does enough interesting things to warrant further experimentation. I will also try to keep occasional updates to this blog, as it's format/code makes it useful to document things. I also want to expand this application slightly to include a contact form and some links to other places where my work and code can be found. Additional styling would also do a lot to make it more "my own", as the overall codebase is just the instructions from NextJS' tutorial. I think the next post here will be some additional guides to using NextJS, explaining some of the choices made within the codebase as per documentation.
